@@ -2,10 +2,6 @@
 # Portfólio de Projetos
 Bem-vindo ao meu portfólio de projetos! 
 Este repositório contém uma coleção dos projetos que desenvolvi ao longo do tempo, abrangendo diversas áreas de interesse.
-
-## Sobre Mim
-Atualmente, sou estudante de Estatística com uma paixão intensa por dados. Além disso, atuo como estagiário em Análise de Dados, onde tenho a oportunidade de aplicar e expandir meus conhecimentos. Neste espaço, compartilho meus estudos e projetos realizados durante meu tempo livre, mostrando minha dedicação e interesse contínuo pelo campo da análise de dados.
-
 ## Projetos
 ### Projeto 1: Previsão de Inadimplência
 
